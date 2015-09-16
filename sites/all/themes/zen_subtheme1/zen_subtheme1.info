@@ -1,0 +1,18 @@
+name = Zen Subtheme1
+description = This is a subtheme of the zen theme, to test subthemes.
+core = 7.x
+
+; the regions taken from the base theme
+regions[header]         = Header
+regions[navigation]     = Navigation bar
+regions[highlighted]    = Highlighted
+regions[help]           = Help
+regions[content]        = Content
+regions[sidebar_first]  = First sidebar
+regions[sidebar_second] = Second sidebar
+regions[footer]         = Footer
+regions[bottom]         = Page bottom
+regions[page_top]       = Page top
+regions[page_bottom]    = Page bottom
+
+base theme = zen
